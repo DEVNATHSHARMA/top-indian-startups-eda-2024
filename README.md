@@ -10,7 +10,7 @@ This project involves scraping, cleaning, and analyzing data on India's top star
 - Seaborn
 
 ## Files
--failory_india_startups.html-scraped data through selenium and processed it for cleaning
+- failory_india_startups.html-scraped data through selenium and processed it for cleaning
 - cleaned_startups.csv: cleaned data
 - eda_notebook.ipynb: Full analysis
 
