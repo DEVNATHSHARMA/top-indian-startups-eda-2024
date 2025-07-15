@@ -5,6 +5,7 @@ This project involves scraping, cleaning, and analyzing data on India's top star
 ## Tools Used
 - Python
 - Pandas
+- selenium
 - BeautifulSoup
 - Matplotlib
 - Seaborn
